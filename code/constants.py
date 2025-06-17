@@ -29,7 +29,7 @@ LOCATION30_PATH = "./datasets-master/bangkok"
 TEXAS100_PATH = "./datasets-master/texas100.npz"
 MNIST_PATH = "./datasets-master"
 GNOME_PATH = "./datasets-master/gnome.npz"
-DEFAULT_SET = GNOME
+DEFAULT_SET = MNIST
 
 LABEL_COL = 0
 LABEL_SIZE = 100
